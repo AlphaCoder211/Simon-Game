@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, jQuery
 The game consists of 4 colours. Simon will give the first signal. Repeat the signal by pressing the same colour. If done correctly, Simon will give the second signal. Repeat the pattern by pressing the first and second signals in order. Simon will keep giving signals until you fail to keep up. If you press the buttons in the wrong pattern the game will end.
 
 ### Play 🕹️
-https://sushantpatial.github.io/Simon-Game
+https://alphacoder211.github.io/Simon-Game/
 
 #### Try to beat my high score: Level 12
 
